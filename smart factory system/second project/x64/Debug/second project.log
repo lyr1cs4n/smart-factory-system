@@ -1,0 +1,37 @@
+﻿  main.cpp
+H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\SubLinkedList.h(107,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\SubLinkedList.h(107,15):
+  the template instantiation context (the oldest one first) is
+  	H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\mainLinkedList.h(13,34):
+  	see reference to class template instantiation 'SubLinkedList<Stack<std::string>>' being compiled
+  	H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\SubLinkedList.h(106,1):
+  	while compiling class template member function 'void SubLinkedList<Stack<std::string>>::print(void)'
+  		H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\mainLinkedList.h(106,23):
+  		see the first reference to 'SubLinkedList<Stack<std::string>>::print' in 'mainLinkedList::print_products'
+  
+H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\SubLinkedList.h(112,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\SubLinkedList.h(138,12): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\SubLinkedList.h(138,12):
+  the template instantiation context (the oldest one first) is
+  	H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\SubLinkedList.h(137,1):
+  	while compiling class template member function 'int SubLinkedList<Stack<std::string>>::getTotalElements(void)'
+  		H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\mainLinkedList.h(132,63):
+  		see the first reference to 'SubLinkedList<Stack<std::string>>::getTotalElements' in 'mainLinkedList::total'
+  
+H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\SubLinkedList.h(160,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\SubLinkedList.h(160,19):
+  the template instantiation context (the oldest one first) is
+  	H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\SubLinkedList.h(142,1):
+  	while compiling class template member function 'void SubLinkedList<Stack<std::string>>::Reverse(void)'
+  		H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\mainLinkedList.h(119,25):
+  		see the first reference to 'SubLinkedList<Stack<std::string>>::Reverse' in 'mainLinkedList::reverselist'
+  
+H:\uni\uni 3.1\data structure\projects\actual second project\second project\second project\SubLinkedList.h(161,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  second project.vcxproj -> H:\uni\uni 3.1\data structure\projects\actual second project\second project\x64\Debug\second project.exe
